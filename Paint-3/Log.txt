@@ -1,0 +1,903 @@
+upd: False
+MainWindowViewModel Update | MainWindowViewModel .ctor | MainWindow .ctor | App OnFrameworkInitializationCompleted | AppBuilderBase`1 Setup | 
+    AppBuilderBase`1 SetupWithLifetime | ClassicDesktopStyleApplicationLifetimeExtensions StartWithClassicDesktopLifetime | Program Main | 
+upd: False
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | RuntimeMethodHandle InvokeMethod | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: False
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: False
+MainWindowViewModel Update | MainWindowViewModel set_ShapeName | MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | 
+    Mapper Clear | Mapper Import | MainWindowViewModel FuncImport | MainWindowViewModel <.ctor>b__19_3 | <>c__DisplayClass3_1`2 <Create>b__1 | 
+upd: False
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Clear | Mapper Import | 
+    MainWindowViewModel FuncImport | MainWindowViewModel <.ctor>b__19_3 | <>c__DisplayClass3_1`2 <Create>b__1 | CreateWithDisposableObservable`1 SubscribeCore | ObservableBase`1 Subscribe | 
+upd: False
+MainWindowViewModel Update | MainWindowViewModel set_ShapeName | MainWindowViewModel Update | MainWindowViewModel FuncImport | MainWindowViewModel <.ctor>b__19_3 | 
+    <>c__DisplayClass3_1`2 <Create>b__1 | CreateWithDisposableObservable`1 SubscribeCore | ObservableBase`1 Subscribe | ObservableExtensions SubscribeSafe | TailRecursiveSink`1 Drain | 
+upd: False
+MainWindowViewModel Update | MainWindowViewModel FuncImport | MainWindowViewModel <.ctor>b__19_3 | <>c__DisplayClass3_1`2 <Create>b__1 | CreateWithDisposableObservable`1 SubscribeCore | 
+    ObservableBase`1 Subscribe | ObservableExtensions SubscribeSafe | TailRecursiveSink`1 Drain | TailRecursiveSink`1 Run | Concat`1 Run | 
+upd: False
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper Select | Mapper ShapeTap | Mapper ReleaseShape | 
+upd: False
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Select | Mapper ShapeTap | 
+    Mapper ReleaseShape | MainWindowViewModel <.ctor>b__19_6 | Interactive <AddHandler>g__InvokeAdapter|4_0 | <>c__4`1 <AddHandler>b__4_1 | EventRoute RaiseEventImpl | 
+upd: False
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Select | Mapper ShapeTap | 
+upd: False
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: False
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: False
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | RuntimeMethodHandle InvokeMethod | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: False
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | Interactive <AddHandler>g__InvokeAdapter|4_0 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    Interactive <AddHandler>g__InvokeAdapter|4_0 | <>c__4`1 <AddHandler>b__4_1 | EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | Interactive <AddHandler>g__InvokeAdapter|4_0 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    Interactive <AddHandler>g__InvokeAdapter|4_0 | <>c__4`1 <AddHandler>b__4_1 | EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | Interactive <AddHandler>g__InvokeAdapter|4_0 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    Interactive <AddHandler>g__InvokeAdapter|4_0 | <>c__4`1 <AddHandler>b__4_1 | EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | Interactive <AddHandler>g__InvokeAdapter|4_0 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    Interactive <AddHandler>g__InvokeAdapter|4_0 | <>c__4`1 <AddHandler>b__4_1 | EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | Interactive <AddHandler>g__InvokeAdapter|4_0 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    Interactive <AddHandler>g__InvokeAdapter|4_0 | <>c__4`1 <AddHandler>b__4_1 | EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | Interactive <AddHandler>g__InvokeAdapter|4_0 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    Interactive <AddHandler>g__InvokeAdapter|4_0 | <>c__4`1 <AddHandler>b__4_1 | EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | PropertyInfo SetValue | Accessor SetValue | DataValidationBase SetValue | Validator SetValue | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | Accessor SetValue | Validator SetValue | PropertyAccessorNode SetTargetValueCore | BindingExpression OnNext | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | Accessor SetValue | Validator SetValue | PropertyAccessorNode SetTargetValueCore | BindingExpression OnNext | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | Accessor SetValue | Validator SetValue | PropertyAccessorNode SetTargetValueCore | BindingExpression OnNext | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | Accessor SetValue | Validator SetValue | PropertyAccessorNode SetTargetValueCore | BindingExpression OnNext | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | Accessor SetValue | Validator SetValue | PropertyAccessorNode SetTargetValueCore | BindingExpression OnNext | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | Accessor SetValue | Validator SetValue | PropertyAccessorNode SetTargetValueCore | BindingExpression OnNext | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | Accessor SetValue | Validator SetValue | PropertyAccessorNode SetTargetValueCore | BindingExpression OnNext | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | Accessor SetValue | Validator SetValue | PropertyAccessorNode SetTargetValueCore | BindingExpression OnNext | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | Accessor SetValue | Validator SetValue | PropertyAccessorNode SetTargetValueCore | BindingExpression OnNext | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | Accessor SetValue | Validator SetValue | PropertyAccessorNode SetTargetValueCore | BindingExpression OnNext | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | Accessor SetValue | Validator SetValue | PropertyAccessorNode SetTargetValueCore | BindingExpression OnNext | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | Accessor SetValue | Validator SetValue | PropertyAccessorNode SetTargetValueCore | BindingExpression OnNext | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | Accessor SetValue | Validator SetValue | PropertyAccessorNode SetTargetValueCore | BindingExpression OnNext | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | Accessor SetValue | Validator SetValue | PropertyAccessorNode SetTargetValueCore | BindingExpression OnNext | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | Accessor SetValue | Validator SetValue | PropertyAccessorNode SetTargetValueCore | BindingExpression OnNext | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | Accessor SetValue | Validator SetValue | PropertyAccessorNode SetTargetValueCore | BindingExpression OnNext | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | Accessor SetValue | Validator SetValue | PropertyAccessorNode SetTargetValueCore | BindingExpression OnNext | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | Accessor SetValue | Validator SetValue | PropertyAccessorNode SetTargetValueCore | BindingExpression OnNext | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | EventRoute RaiseEventImpl | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+    EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseMove | MouseDevice ProcessRawEvent | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | Accessor SetValue | Validator SetValue | PropertyAccessorNode SetTargetValueCore | BindingExpression OnNext | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | MainWindowViewModel <.ctor>b__19_5 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | Accessor SetValue | Validator SetValue | PropertyAccessorNode SetTargetValueCore | BindingExpression OnNext | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | Accessor SetValue | Validator SetValue | PropertyAccessorNode SetTargetValueCore | BindingExpression OnNext | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper Update | SafeGeometry Upd_valid | 
+    SafeGeometry Set | Shape6_CompositeFigure Load | Mapper MoveShape | Mapper ReleaseShape | MainWindowViewModel <.ctor>b__19_6 | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | Mapper ReleaseShape | 
+    MainWindowViewModel <.ctor>b__19_6 | EventRoute RaiseEventImpl | EventRoute RaiseEvent | Interactive RaiseEvent | MouseDevice MouseUp | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | Mapper ReleaseShape | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | Accessor SetValue | Validator SetValue | PropertyAccessorNode SetTargetValueCore | BindingExpression OnNext | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper ChangeFigure | MainWindowViewModel set_SelectedShaper | 
+    MainWindowViewModel Update | MainWindowViewModel Update | Mapper Update | Mapper MoveShape | Mapper ReleaseShape | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | Accessor SetValue | Validator SetValue | PropertyAccessorNode SetTargetValueCore | BindingExpression OnNext | 
+upd: True
+MainWindowViewModel Update | MainWindowViewModel set_ShapeFillColor | MethodInvoker Invoke | RuntimeMethodInfo InvokeOneParameter | 
+    RuntimePropertyInfo SetValue | Accessor SetValue | Validator SetValue | PropertyAccessorNode SetTargetValueCore | BindingExpression OnNext | 
